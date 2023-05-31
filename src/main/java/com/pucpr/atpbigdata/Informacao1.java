@@ -49,7 +49,7 @@ public class Informacao1 {
     }
     
     public static void main(String[] args) throws Exception {
-
+        System.out.println("Analisando País com a maior quantidade de transações comerciais efetuadas... "); 
         String arquivoEntrada = "/home/Disciplinas/FundamentosBigData/OperacoesComerciais/base_100_mil.csv";
         String arquivoSaida = "/home2/ead2022/SEM1/cesar.franco/Desktop/Analise1/Informacao1";
         
@@ -70,7 +70,6 @@ public class Informacao1 {
         FileInputFormat.addInputPath(job, new Path(arquivoEntrada));
         FileOutputFormat.setOutputPath(job, new Path(arquivoSaida));
         
-        job.waitForCompletion(true);
- 
+        job.waitForCompletion(true); 
     }
 }

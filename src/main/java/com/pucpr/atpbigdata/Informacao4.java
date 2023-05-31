@@ -46,17 +46,14 @@ public class Informacao4 {
             }
             
             int maiorAtual = Collections.max(qtdSoma);
-            ArrayList<Integer> maiorGeral = new ArrayList(maiorAtual);
             
             System.out.println(maiorAtual);
             context.write(chave, new IntWritable(soma));
-            //System.out.println("MAIOR NUM: " + Collections.max(maiorGeral));
         }
     }
     
     public static void main(String[] args) throws Exception {
-        System.out.println("Mercadoria com maior quantidade: "); 
-        
+        System.out.println("AnalisandoMercadoria com maior quantidade de transações financeiras... ");
         String arquivoEntrada = "/home/Disciplinas/FundamentosBigData/OperacoesComerciais/base_100_mil.csv";
         String arquivoSaida = "/home2/ead2022/SEM1/cesar.franco/Desktop/Analise4/informacao4";
         
