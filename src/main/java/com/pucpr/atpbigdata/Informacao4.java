@@ -53,7 +53,7 @@ public class Informacao4 {
     }
     
     public static void main(String[] args) throws Exception {
-        System.out.println("AnalisandoMercadoria com maior quantidade de transações financeiras... ");
+        System.out.println("Analisando Mercadoria com maior quantidade de transações financeiras... ");
         String arquivoEntrada = "/home/Disciplinas/FundamentosBigData/OperacoesComerciais/base_100_mil.csv";
         String arquivoSaida = "/home2/ead2022/SEM1/cesar.franco/Desktop/Analise4/informacao4";
         
