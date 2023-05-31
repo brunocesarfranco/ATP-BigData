@@ -1,2 +1,0 @@
-compile.on.save=true
-user.properties.file=/home2/ead2022/SEM1/cesar.franco/.netbeans/8.2/build.properties
