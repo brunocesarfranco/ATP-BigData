@@ -1,3 +1,14 @@
+/*
+# Nome: Bruno Cesar de Oliveira Franco
+# RA: 1112022100423
+# Curso: Analise e Desenolvimento de Sistemas
+# Professor: Felipe Gabriel De Mello Elias
+# Objetivo: É um projeto feito em Java com Maven, 
+            criado a partir da IDE NetBeans (versão 8.2) 
+            em uma VM com sistema operacional Linux.
+# Repositório: https://github.com/brunocesarfranco/ATP-BigData
+*/
+
 package com.pucpr.atpbigdata;
 
 import java.io.IOException;
