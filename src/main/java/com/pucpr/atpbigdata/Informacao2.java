@@ -3,7 +3,6 @@
         - Ana Paula Barbosa da Cruz Szezech
         - Bruno Cesar de Oliveira Franco
         - Melissa Wunsch
-# RA: 1112022100423
 # Matéria: Fundamentos de Big Data
 # Professor: Felipe Gabriel De Mello Elias
 # Objetivo: É um projeto feito em Java com Maven, 
