@@ -1,7 +1,10 @@
 /*
-# Nome: Bruno Cesar de Oliveira Franco
+# Grupo 100: 
+        - Ana Paula Barbosa da Cruz Szezech
+        - Bruno Cesar de Oliveira Franco
+        - Melissa Wunsch
 # RA: 1112022100423
-# Curso: Analise e Desenolvimento de Sistemas
+# Matéria: Fundamentos de Big Data
 # Professor: Felipe Gabriel De Mello Elias
 # Objetivo: É um projeto feito em Java com Maven, 
             criado a partir da IDE NetBeans (versão 8.2) 
