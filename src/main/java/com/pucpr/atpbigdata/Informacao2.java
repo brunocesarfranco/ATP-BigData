@@ -56,7 +56,7 @@ public class Informacao2 {
     
     public static void main(String[] args) throws Exception {
         System.out.println("Analisando Mercadoria com a maior quantidade de transações comerciais no Brasil... "); 
-        String arquivoEntrada = "/home/Disciplinas/FundamentosBigData/OperacoesComerciais/base_100_mil.csv";
+        String arquivoEntrada = "/home/Disciplinas/FundamentosBigData/OperacoesComerciais/base_inteira.csv";
         String arquivoSaida = "/home2/ead2022/SEM1/cesar.franco/Desktop/Analise2/informacao2";
         
         if(args.length == 2){

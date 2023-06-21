@@ -58,7 +58,7 @@ public class Informacao3 {
     
     public static void main(String[] args) throws Exception {
         System.out.println("Analisando Quantidade de transações comerciais realizadas por ano... "); 
-        String arquivoEntrada = "/home/Disciplinas/FundamentosBigData/OperacoesComerciais/base_100_mil.csv";
+        String arquivoEntrada = "/home/Disciplinas/FundamentosBigData/OperacoesComerciais/base_inteira.csv";
         String arquivoSaida = "/home2/ead2022/SEM1/cesar.franco/Desktop/Analise3/informacao3";
         
         if(args.length == 2){

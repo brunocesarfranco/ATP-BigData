@@ -73,7 +73,7 @@ public class Informacao8 {
     
     public static void main(String[] args) throws Exception {
         System.out.println("AnalisandoMercadoria com maior quantidade de transações financeiras... ");
-        String arquivoEntrada = "/home/Disciplinas/FundamentosBigData/OperacoesComerciais/base_100_mil.csv";
+        String arquivoEntrada = "/home/Disciplinas/FundamentosBigData/OperacoesComerciais/base_inteira.csv";
         String arquivoSaida = "/home2/ead2022/SEM1/cesar.franco/Desktop/Analise8/Informacao8";
         
         if(args.length == 2){
